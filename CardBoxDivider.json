@@ -1,0 +1,50 @@
+{
+    "parameterSets": {
+        "BCW": {
+            "addClip": "true",
+            "addFeet": "true",
+            "bars": "3",
+            "clip_depth": "10",
+            "clip_height": "15",
+            "clip_right": "1",
+            "clip_vertical_position": "0",
+            "clip_width": "10.75",
+            "depth": "1.6",
+            "footSize": "9",
+            "height": "93",
+            "label_size": "10",
+            "width": "66"
+        },
+        "CardCatalogOriginal": {
+            "addClip": "true",
+            "addFeet": "true",
+            "bars": "3",
+            "clip_depth": "10",
+            "clip_height": "50",
+            "clip_location": "2",
+            "clip_vertical_position": "0",
+            "clip_width": "4",
+            "depth": "1.6",
+            "footSize": "9",
+            "height": "91",
+            "label_size": "10",
+            "width": "67"
+        },
+        "CardCatalog": {
+            "addClip": "true",
+            "addFeet": "false",
+            "bars": "3",
+            "clip_depth": "8",
+            "clip_height": "30",
+            "clip_location": "2",
+            "clip_vertical_position": "3",
+            "clip_width": "7",
+            "depth": "1.6",
+            "footSize": "9",
+            "height": "60",
+            "label_size": "10",
+            "width": "67"
+        }
+    },
+    "fileFormatVersion": "1"
+}
